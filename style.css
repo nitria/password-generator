@@ -26,7 +26,7 @@ body {
   position: relative;
 }
 
-input {
+div {
   width: 300px;
   height: 30px;
   border: none;
@@ -38,6 +38,7 @@ input {
   letter-spacing: 4px;
   text-align: center;
   border-radius: 19px;
+  background: white;
 }
 
 #btn {

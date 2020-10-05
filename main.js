@@ -11,5 +11,5 @@ btn.addEventListener("click", function generate() {
       Math.floor(Math.random() * characters.length)
     );
   }
-  password.value = generatePassword;
+  password.innerHTML = generatePassword;
 });
